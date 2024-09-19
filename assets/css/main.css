@@ -3057,11 +3057,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background-color: #333;
-				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
-				background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
+				background-color: #D9D9D9;
 				height: 44px;
 				line-height: 44px;
 				box-shadow: 0 4px 0 0 #37c0fb;
@@ -3112,7 +3108,7 @@ input, select, textarea {
 						line-height: inherit;
 						text-align: center;
 						width: 44px;
-						color: #fff;
+						color: #1f1f1f;
 						opacity: 0.5;
 					}
 
